@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development
 
-Visit `http://medina21.s3-website-us-east-1.amazonaws.com/` for a live example 
+Visit [This page](http://medina21.s3-website-us-east-1.amazonaws.com/) for a live example 
